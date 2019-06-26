@@ -1,0 +1,4 @@
+﻿cat	meo
+dog	cho
+chicken	ga
+eleplant	voi
