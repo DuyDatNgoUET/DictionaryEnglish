@@ -1,4 +1,10 @@
-﻿cat	meo
-dog	cho
-chicken	ga
-eleplant	voi
+﻿dog	cho
+cat	meo
+elephant	voi
+tiger	ho
+house	nha
+home	nha
+work	cong viec
+door	cua
+water	nuoc
+sun	mat troi
